@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi, I'm Miguel 👋
 
-<!--
-**sanina11/sanina11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at **IPBeja** (2nd year), based in Portugal.
+Heading toward a **Cybersecurity** master's — focused on offensive security, network & infrastructure security, and application/web security.
 
-Here are some ideas to get you started:
+This is where I keep coursework, side projects, and whatever I'm learning along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🎯 Currently focused on
+
+- Building solid fundamentals in **networking, Linux, and web technologies**
+- Learning **offensive security** through hands-on practice (TryHackMe / HackTheBox)
+- Writing cleaner, better-documented code in every new project
+
+#### 🧰 Tech I work with
+
+**Languages:** Java, JavaScript, HTML/CSS
+**Learning next:** Python, Bash, SQL, networking fundamentals
+
+#### 📫 Reach me
+
+- LinkedIn: [miguel-rosado-sanina](https://www.linkedin.com/in/miguel-rosado-sanina-32908a402)
+- Location: Beja, Portugal
+
+---
+
+<sub>Always open to collaborating on student projects or cybersecurity-related ideas.</sub>
